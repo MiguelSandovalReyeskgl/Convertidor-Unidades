@@ -123,8 +123,14 @@ private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {
 ---
 
 
+### Parte principal
+![principal](ImagenesUsadas/uno.png)
+### A continucación diversas pruebas:
+![equivalencia](ImagenesUsadas/dos.png)
 
+![equivalencia](ImagenesUsadas/tres.png)
 
+![equivalencia](ImagenesUsadas/cuatro.png)
 ##  Autor
 
 Sandoval Reyes Miguel
